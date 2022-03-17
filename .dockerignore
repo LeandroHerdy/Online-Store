@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+*.mo
+*.db
+*.sql.gz
+.cache
+.project
+.idea
+.git/
+db.sqlite3
+__pycache__
+docs
+env
+stats
